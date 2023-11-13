@@ -1,0 +1,11 @@
+INSERT INTO pembeli (nama, alamat, email) VALUES
+    ('Rina Sari', 'Jl. Melati No. 10', 'rina@example.com'),
+    ('Budi Santoso', 'Jl. Kenanga No. 5', 'budi@example.com'),
+    ('Ani Wijaya', 'Jl. Anggrek No. 7', 'ani@example.com'),
+    ('Fajar Mulia', 'Jl. Cempaka No. 3', 'fajar@example.com'),
+    ('Siti Nurul', 'Jl. Dahlia No. 15', 'siti@example.com'),
+    ('Agus Setiawan', 'Jl. Mawar No. 12', 'agus@example.com'),
+    ('Lia Dewi', 'Jl. Palem No. 9', 'lia@example.com'),
+    ('Ahmad Yani', 'Jl. Kenari No. 1', 'ahmad@example.com'),
+    ('Sinta Aulia', 'Jl. Jambu No. 2', 'sinta@example.com'),
+    ('Dian Cahaya', 'Jl. Teratai No. 8', 'dian@example.com');
